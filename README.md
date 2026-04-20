@@ -20,3 +20,5 @@ Final Softmax layer (4 classes)
 Results
 Training Accuracy: 99.6 %
 Test Accuracy: 95.1%
+
+Dataset : https://www.kaggle.com/datasets/azminur2856/alzheimer-mri-dataset
